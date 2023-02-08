@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Relevant information about my life 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mishal Powers:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a freshman at Williams College
+- I am a student in CSI 103: E-Textiles
 
 What else do you need?
 
